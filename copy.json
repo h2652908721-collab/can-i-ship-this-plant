@@ -1,0 +1,70 @@
+{
+  "brand": "PlantShip",
+  "tagline": "Plant species compliance check. Instant cross-border shipping rules.",
+  "hero_headline": "Can I legally ship this plant to the US? Stop guessing.",
+  "hero_sub": "Enter plant species and destination. Get compliance answers instantly: Is it shippable? Do you need permits? Is it CITES regulated?",
+  "pains": [
+    "Spend hours checking regulations and contacting logistics before shipping. Still unsure if it's legal.",
+    "CITES, quarantine rules, and banned species all mixed up. One plant, multiple scientific names. No single source of truth.",
+    "Wrong shipments, import bans, high returns. Every mistake costs money and reputation."
+  ],
+  "features": [
+    {
+      "title": "Instant Compliance Check",
+      "desc": "Enter species and destination. Get compliance results in 0.5 seconds. Skip the legal research."
+    },
+    {
+      "title": "Real-time CITES Coverage",
+      "desc": "Real-time sync with CITES Appendices I, II, III. Auto-recognizes multiple scientific names."
+    },
+    {
+      "title": "Multi-Country Quarantine Database",
+      "desc": "Covers US USDA, Japan, Singapore, and other major destinations' banned species lists."
+    },
+    {
+      "title": "State-Level Invasive Species Database",
+      "desc": "US all-50-state invasive species database. Compliance badges for Etsy and Instagram listings."
+    }
+  ],
+  "how": [
+    {
+      "step": "Select & Enter",
+      "desc": "Choose plant species + destination country/state."
+    },
+    {
+      "step": "Get Instant Report",
+      "desc": "Shipping eligibility, required permits, CITES classifications at a glance."
+    },
+    {
+      "step": "Take Action",
+      "desc": "Follow recommendations to obtain permits, add compliance labels, avoid bans."
+    }
+  ],
+  "proof": "Join now as a founding beta user. Shape the product direction.",
+  "cta": "Free Beta Access",
+  "cta_sub": "Free to join. Early access to compliance tools.",
+  "faq": [
+    {
+      "q": "Is this legal advice?",
+      "a": "No. This tool aggregates public regulatory data for reference. For actual customs clearance, consult customs authorities, plant protection departments, or licensed agents."
+    },
+    {
+      "q": "What plants are supported?",
+      "a": "We currently cover mainstream foliage plant genera (ferns, pothos, Monstera, etc.). Rare species are continuously added."
+    },
+    {
+      "q": "How often is the data updated?",
+      "a": "CITES syncs with official updates monthly. USDA is checked monthly. New regulations are added within 48 hours of release."
+    }
+  ],
+  "seo_pages": [
+    "Can I ship Monstera to the US - plant compliance guide",
+    "CITES regulated plants list - international shipping rules",
+    "US prohibited invasive plants - state quarantine requirements",
+    "Sell plants on Etsy legally - 5 permits for international shipping",
+    "Import houseplants to Japan - quarantine certificate process",
+    "Ship plant seeds internationally - USDA banned species lookup"
+  ],
+  "disclaimer": "This tool is a reference for plant compliance queries and does not constitute legal advice. For actual customs clearance, consult customs authorities, plant protection departments, or licensed agents.",
+  "lang": "en"
+}
